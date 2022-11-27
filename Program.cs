@@ -1,4 +1,4 @@
-﻿Console.WriteLine("This programm compare two numbers and write the largest number of them");
+﻿Console.WriteLine("This programm compare two numbers and write the largest and the smallest number of them");
 Console.WriteLine("Please, enter the first number");
 int FirstNumb = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Please, enter the second number");
