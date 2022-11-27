@@ -17,7 +17,7 @@ else
         while (StartNumber <= number)
         {
         Console.Write(StartNumber + " ");
-        StartNumber = StartNumber + 2;
+        StartNumber+=2;
         }
     }
     
