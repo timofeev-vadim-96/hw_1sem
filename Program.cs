@@ -12,9 +12,11 @@ else
     if (FirstNumb > SecondNumb)
     {
         Console.WriteLine(FirstNumb + " is the largest number");
+        Console.WriteLine(SecondNumb + " is the smallest number");
     }
     else 
     {
         Console.WriteLine(SecondNumb + " is the largest number");
+        Console.WriteLine(FirstNumb + " is the smallest number");
     }
 }
